@@ -1,0 +1,55 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Wikiofreunde Widget\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-03-31 18:04+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Crazy Girl\n"
+"Language-Team: Crazy Girl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: German\n"
+"X-Poedit-Country: GERMANY\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: recent-trackbacks-pingbacks.php:100
+msgid "Title:"
+msgstr "Titel:"
+
+#: recent-trackbacks-pingbacks.php:106
+msgid "Items are displayed"
+msgstr "Einträge anzeigen"
+
+#: recent-trackbacks-pingbacks.php:111
+msgid "Link: rel=\"nofollow\" ?"
+msgstr "Link: rel=\"nofollow\" ?"
+
+#: recent-trackbacks-pingbacks.php:116
+msgid "Characters for excerpt"
+msgstr "Zeichenlänge des Auszugs"
+
+#: recent-trackbacks-pingbacks.php:117
+msgid "(between 10 and 500)"
+msgstr "(zwischen 10 und 500)"
+
+#: recent-trackbacks-pingbacks.php:122
+msgid "Exclude own Pingbacks ?"
+msgstr "Eigene Pingbacks ausschließen ?"
+
+#: recent-trackbacks-pingbacks.php:124
+msgid "(check to exclude Pingbacks from "
+msgstr "(ankreuzen um Pingbacks auszuschließen von "
+
+#~ msgid "Show author ?"
+#~ msgstr "Autor anzeigen ?"
+#~ msgid "Show description ?"
+#~ msgstr "Beschreibung anzeigen ? "
+#~ msgid "An error has occurred; the feed is probably down. Try again later."
+#~ msgstr ""
+#~ "Ein Fehler ist aufgetreten; der Feed ist gerade nicht verfügbar. Versuche "
+#~ "es später noch einmal."
+
